@@ -3,7 +3,7 @@
     "name": "My Tables 100 Metres Dash",
     "icons": [
       {
-        "src": "/assets/images/icons/192.png",
+        "src": "/assets/images/icons/apple-touch-icon.png",
         "type": "image/png",
         "sizes": "192x192"
       },

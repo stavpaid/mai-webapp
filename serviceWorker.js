@@ -18,8 +18,8 @@ self.addEventListener('install', function (event) {
                 '/assets/images/SVG/github.css',
                 '/assets/images/SVG/linkedin-with-circle.css',
                 '/assets/images/SVG/mail4.css',
-                '/js/uomTrack.js',
-                '/js/myTables.js'
+                '/uomTrack.js',
+                '/myTables.js'
             ]);
         })
     );

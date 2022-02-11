@@ -1,0 +1,20 @@
+{
+    "short_name": "My Tables",
+    "name": "My Tables 100 Metres Dash",
+    "icons": [
+      {
+        "src": "/assets/images/icons/192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/images/icons/512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "white",
+    "display": "standalone",
+    "description": "Create your own tables of running results"
+  }

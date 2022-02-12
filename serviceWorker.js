@@ -11,7 +11,6 @@ self.addEventListener('install', function (event) {
                 '/assets/images/icons/apple-touch-icon.png',
                 '/assets/images/icons/favicon-16x16.png',
                 '/assets/images/icons/favicon-32x32.png',
-                '/assets/images/icons/android-chrome-192x192.png',
                 '/assets/images/icons/android-chrome-512x512.png',
                 '/assets/images/SVG/copy.css',
                 '/assets/images/SVG/trash.css',

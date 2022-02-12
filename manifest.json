@@ -1,13 +1,7 @@
 {
     "short_name": "My Tables",
     "name": "My Tables 100 Metres Dash",
-    "icons": [
-        {
-      "src": "/assets/images/icons/android-chrome-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-      }
-    ],
+    "icons": [],
     "start_url": "/",
     "background_color": "white",
     "display": "standalone",

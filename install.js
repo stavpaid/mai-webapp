@@ -1,6 +1,9 @@
 'use strict';
 
 // Service Worker
+
+app.use('/', routes);
+
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/sw.js').catch(function (error) {
         // registration failed

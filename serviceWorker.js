@@ -7,7 +7,6 @@ self.addEventListener('install', function (event) {
                 '/favicon.ico',
                 '/assets/stylesheets/main.css',
                 '/manifest.json',
-                '/assets/images/icons/icon.svg',
                 '/assets/images/icons/apple-touch-icon.png',
                 '/assets/images/icons/favicon-16x16.png',
                 '/assets/images/icons/favicon-32x32.png',
